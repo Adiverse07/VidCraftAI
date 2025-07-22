@@ -297,7 +297,7 @@ ui_actions = [
 
 Get ready to have your mind blown! 🤯 Watch VidCraftAI in action:
 
-**🎬 [Full Demo Video - Drive Link](your-drive-link-herehttps://drive.google.com/file/d/1BidoMehtBINQ21zelzZKNaX0ApIonqUT/view?usp=sharing)**
+**🎬 [Full Demo Video - Drive Link](https://drive.google.com/file/d/1BidoMehtBINQ21zelzZKNaX0ApIonqUT/view?usp=sharing)**
 
 *In this comprehensive demo, you'll see:*
 - 🗣️ Natural language to animation conversion
