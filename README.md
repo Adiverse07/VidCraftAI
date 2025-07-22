@@ -12,7 +12,7 @@
 [![Manim](https://img.shields.io/badge/Manim-Community-FF6B9D?style=for-the-badge)](https://www.manim.community/)
 [![MCP](https://img.shields.io/badge/MCP-Protocol-9146FF?style=for-the-badge)](https://modelcontextprotocol.io/)
 
-[🚀 Demo Video](#-demo-video) • [🛠️ Setup](#-setup) • [📚 Documentation](#-how-it-works) • [🤝 Contributing](#-contributing)
+[🚀 Demo Video](#-demo-video) • [🛠️ Setup](#-setup--installation) • [📚 Documentation](#-how-it-works-the-magic-explained) • [🤝 Contributing](#-contributing)
 
 </div>
 
@@ -172,7 +172,7 @@ vidcraft-ai/
 
 ---
 
-## 🚀 Setup & Installation
+## 🚀 Setup  & Installation
 
 ### 📋 Prerequisites
 
