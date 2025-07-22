@@ -172,7 +172,7 @@ vidcraft-ai/
 
 ---
 
-## 🚀 Setup  & Installation
+## 🚀 Setup & Installation
 
 ### 📋 Prerequisites
 
