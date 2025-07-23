@@ -306,7 +306,7 @@ Get ready to have your mind blown! 🤯 Watch VidCraftAI in action:
 - 🛠️ Video editing and management features
 - 🔮 The power of MCP orchestrating everything seamlessly
 
-*Duration: ~10 minutes | Quality: 1080p | Size: ~200MB*
+*Duration: ~5 minutes | Quality: 1440p | Size: ~200MB*
 
 ---
 
